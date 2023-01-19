@@ -12,7 +12,7 @@ Tenho 19 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 <img src="PGIF.gif" alt="animated" />
 </p>
 
-**Um pouco mais sobre meus estudos:**
+**Um pouco mais sobre mim:**
 
 1.👨🏻‍🎓Estou buscando evoluir;</br>
 2.💪🏼Eu pratico e estudo algoritmos, estrutura de dados e outros, em sites como UVA Online Jugde, Beecrowde e Codeforces;</br>
@@ -24,7 +24,13 @@ Tenho 19 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 <a href="https://codeforces.com/profile/Portin" target ="alvo"/>
 <img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/code-forces.svg" width="45" height="45" target="alvo"/></a>
 </div>
-3.📊C++ é a linguagem que mais utilizo.
+3.📊C++ é a linguagem que mais utilizo.</br>
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vpf&theme=github_dark&show_icons=true)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 ### 🖥️Tecnologias e ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -32,6 +38,7 @@ Tenho 19 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 
 ## 📚Quero aprender:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
           
           
           
