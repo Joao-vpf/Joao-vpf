@@ -29,7 +29,12 @@ Tenho 19 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vpf&theme=github_dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=c++)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vpf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ### 🖥️Tecnologias e ferramentas:
