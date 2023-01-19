@@ -13,6 +13,7 @@ Tenho 19 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 </p>
 
 **Um pouco mais sobre meus estudos:**
+
 1.👨🏻‍🎓Estou buscando evoluir;
 2.💪🏼Eu pratico e estudo algoritmos, estrutura de dados e outros, em sites como UVA Online Jugde, Beecrowd, Codefores e SPOJ;
 3.📊C++ é a linguagem que mais utilizo.
