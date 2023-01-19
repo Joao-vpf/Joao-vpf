@@ -18,7 +18,8 @@ Tenho 19 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 2.💪🏼Eu pratico e estudo algoritmos, estrutura de dados e outros, em sites como UVA Online Jugde, Beecrowd, Codefores e SPOJ;</br>
 <div>
 <a href="https://uhunt.onlinejudge.org/id/1297941" target ="alvo"/>
-<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/uva.png" target="alvo"/></a>
+<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/uva.png" width="40" height="30" target="alvo"/></a>
+</div>
 3.📊C++ é a linguagem que mais utilizo.
 
 ### 🖥️Tecnologias e ferramentas:
