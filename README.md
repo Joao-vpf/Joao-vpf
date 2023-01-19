@@ -27,7 +27,7 @@ Tenho 19 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 3.📊C++ é a linguagem que mais utilizo.</br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vpf&theme=github_dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vpf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vpf&theme=github_dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vpf&layout=compact)](https://github.com/joao-vpf/github-readme-stats)
 
 
 
