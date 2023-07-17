@@ -15,7 +15,7 @@ Tenho 19 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 **Um pouco mais sobre mim:**
 
 1.👨🏻‍🎓Estou buscando evoluir;</br>
-2.💪🏼Eu pratico e estudo algoritmos, estrutura de dados e outros, em sites como UVA Online Jugde, Beecrowde e Codeforces;</br>
+2.💪🏼Eu pratico e estudo algoritmos, estrutura de dados e outros, em sites como UVA Online Jugde, Beecrowd, Codeforces e Atcoder;</br>
 <div>
 <a href="https://uhunt.onlinejudge.org/id/1297941" target ="alvo"/>
 <img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/uva.png" width="55" height="40" target="alvo"/></a>
