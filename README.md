@@ -19,9 +19,6 @@ Tenho 20 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 <div>
 <a href="https://uhunt.onlinejudge.org/id/1297941" target ="alvo"/>
 <img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/uva.png" width="55" height="40" target="alvo"/></a>
-      
-<a href="https://leetcode.com/Portin/" target ="alvo"/>
-<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/LeetCode_logo_rvs.png" width="40" height="45" target="alvo"/></a>
          
 <a href="https://www.beecrowd.com.br/judge/pt/profile/625029" target ="alvo"/>
 <img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/beecrowd.png" width="50" height="46" target="alvo"/></a>
@@ -31,6 +28,9 @@ Tenho 20 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 
 <a href="https://atcoder.jp/users/Portin" target ="alvo"/>
 <img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/Atcoder.png" width="40" height="40" target="alvo"/></a>
+
+<a href="https://leetcode.com/Portin/" target ="alvo"/>
+<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/LeetCode_logo_rvs.png" width="40" height="45" target="alvo"/></a>
 </div>
 
 3.📊C++ é a linguagem que mais utilizo.</br>
