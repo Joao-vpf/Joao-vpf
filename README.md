@@ -1,7 +1,10 @@
 # Olá, como vai? 😜
    
 ## Prazer em te conhecer!
-Olá, sou João Victor, um padawan no vasto universo da programação, mas um mestre na busca constante por aprendizado. Atualmente, mergulho no fascinante mundo do machine learning, onde minha paixão por competições e desafios encontra espaço para florescer. Estou dedicando meu tempo ao estudo de algoritmos de aprendizado de máquina, e sou apaixonado por competições e desafios em busca de aprimorar minhas habilidades práticas. Além disso, estou sempre em busca de novos projetos e oportunidades para aplicar e expandir meus conhecimentos nessa empolgante área.
+
+Olá, meu nome é João Victor, um padawan no vasto universo da programação, mas um mestre na busca constante por aprendizado. 🚀✨
+
+Atualmente, estou dedicando meu tempo ao estudo de algoritmos de aprendizado de máquina, e frequentemente estou em competições e desafios de programação em busca de aprimorar minhas habilidades práticas. Além disso, estou sempre em busca de novos projetos e oportunidades para aplicar e expandir meus conhecimentos.
 
 <p align="center">
 <img src="PGIF.gif" alt="animated" />
@@ -40,7 +43,8 @@ Olá, sou João Victor, um padawan no vasto universo da programação, mas um me
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-porto-fernandes-1b938a231" target="alvo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="alvo"/></a>
 </div>       
 
-          
-          
+<div align="center">
+  <iframe src="https://raw.githack.com/username/repo/master/snake/index.html" width="600" height="400"></iframe>
+</div>  
           
 
