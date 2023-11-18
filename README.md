@@ -6,7 +6,7 @@
 </div>
 
 ## Prazer em te conhecer!
-Tenho 20 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar na programação,  travei uma guerra contra bugs, quanto mais aparecem melhor fico nessa área perfeita que é a computação👨🏻‍💻. 
+👋 Olá, sou João Victor, com 20 anos de pura empolgação pela programação! Adoro desafios e, honestamente, quanto mais bugs aparecem, mais animado eu fico. É como uma guerra em que cada bug vencido é uma vitória na incrível aventura da computação. 👨🏻‍💻💥
 
 <p align="center">
 <img src="PGIF.gif" alt="animated" />
@@ -33,7 +33,7 @@ Tenho 20 anos, gosto de aprender e descobrir novas maneiras de me aperfeiçoar n
 <img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/LeetCode_logo_rvs.png" width="40" height="45" target="alvo"/></a>
 </div>
 
-3.📊C++ é a linguagem que mais utilizo.</br>
+3.📊C++ e python são as linguagens que mais utilizo.</br>
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vpf&theme=github_dark&show_icons=true)
