@@ -43,8 +43,8 @@ Atualmente, estou dedicando meu tempo ao estudo de algoritmos de aprendizado de 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-porto-fernandes-1b938a231" target="alvo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="alvo"/></a>
 </div>       
 
-<div align="center">
-  <iframe src="https://raw.githack.com/username/repo/master/snake/index.html" width="600" height="400"></iframe>
-</div>  
+
+![Snake animation](https://github.com/{{Joao-vpf}}/{{Joao-vpf}}/blob/output/github-contribution-grid-snake.svg)
+
           
 
