@@ -21,11 +21,6 @@ Olá, sou João Victor, um padawan no vasto universo da programação, mas um me
 2. 💪🏼 Pratico e estudo uma variedade de tópicos, desde estrutura de dados até algoritmos avançados. Minha jornada de aprendizado me levou a explorar plataformas desafiadoras como UVA Online Judge, Beecrowd, Codeforces, Atcoder e LeetCode.
 
 <div>
-<a href="https://uhunt.onlinejudge.org/id/1297941" target ="_blank">
-<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/uva.png" width="50" height="50" alt="UVA Online Judge"/></a>
-<a href="https://www.beecrowd.com.br/judge/pt/profile/625029" width="50" height="50" target ="_blank">
-<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/beecrowd.png" width="50" height="50"  alt="Beecrowd"/></a>
-<a href="https://codeforces.com/profile/Portin" target ="_blank">
 <img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/codeforces.png"   width="50" height="50"alt="Codeforces"/></a>
 <a href="https://atcoder.jp/users/Portin" target ="_blank">
 <img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/atcoder.png" width="50" height="50" alt="Atcoder"/></a>
