@@ -1,12 +1,14 @@
-### Olá, como vai? Eu sou João Victor 👋
+# Olá, como vai? 😜
+
+## Como me encontrar:
 <div>
 <a href="mailto:joaovictorpf719@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="alvo"/></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-porto-fernandes-1b938a231" target="alvo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="alvo"/></a>
-</div>
-
+</div>          
+          
 ## Prazer em te conhecer!
-👋 Olá, sou João Victor, com 20 anos de pura empolgação pela programação! Adoro desafios e, honestamente, quanto mais bugs aparecem, mais animado eu fico. É como uma guerra em que cada bug vencido é uma vitória na incrível aventura da computação. 👨🏻‍💻💥
+Olá, sou João Victor, um padawan no vasto universo da programação, mas um mestre na busca constante por aprendizado. Atualmente, mergulho no fascinante mundo do machine learning, onde minha paixão por competições e desafios encontra espaço para florescer. Estou dedicando meu tempo ao estudo de algoritmos de aprendizado de máquina, e sou apaixonado por competições e desafios em busca de aprimorar minhas habilidades práticas. Além disso, estou sempre em busca de novos projetos e oportunidades para aplicar e expandir meus conhecimentos nessa empolgante área.
 
 <p align="center">
 <img src="PGIF.gif" alt="animated" />
@@ -14,32 +16,30 @@
 
 **Um pouco mais sobre mim:**
 
-1.👨🏻‍🎓Estou buscando evoluir;</br>
-2.💪🏼Eu pratico e estudo estrutura de dados, programação dinâmica, grafos, matemática e outros algoritmos, em sites como UVA Online Jugde, Beecrowd, Codeforces e Atcoder;</br>
+1.👨🏻‍🎓 Estou em constante busca por evolução e aprendizado, sempre buscando desafios que me impulsionem para o próximo nível.
+</br>
+2. 💪🏼 Pratico e estudo uma variedade de tópicos, desde estrutura de dados até algoritmos avançados. Minha jornada de aprendizado me levou a explorar plataformas desafiadoras como UVA Online Judge, Beecrowd, Codeforces, Atcoder e LeetCode.
+
 <div>
-<a href="https://uhunt.onlinejudge.org/id/1297941" target ="alvo"/>
-<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/uva.png" width="55" height="40" target="alvo"/></a>
-         
-<a href="https://www.beecrowd.com.br/judge/pt/profile/625029" target ="alvo"/>
-<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/beecrowd.png" width="50" height="46" target="alvo"/></a>
-
-<a href="https://codeforces.com/profile/Portin" target ="alvo"/>
-<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/code-forces.svg" width="40" height="40" target="alvo"/></a>
-
-<a href="https://atcoder.jp/users/Portin" target ="alvo"/>
-<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/Atcoder.png" width="40" height="40" target="alvo"/></a>
-
-<a href="https://leetcode.com/Portin/" target ="alvo"/>
-<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/LeetCode_logo_rvs.png" width="40" height="45" target="alvo"/></a>
+<a href="https://uhunt.onlinejudge.org/id/1297941" target ="_blank">
+<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/uva.png" width="50" height="50" alt="UVA Online Judge"/></a>
+<a href="https://www.beecrowd.com.br/judge/pt/profile/625029" width="50" height="50" target ="_blank">
+<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/beecrowd.png" width="50" height="50"  alt="Beecrowd"/></a>
+<a href="https://codeforces.com/profile/Portin" target ="_blank">
+<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/codeforces.png"   width="50" height="50"alt="Codeforces"/></a>
+<a href="https://atcoder.jp/users/Portin" target ="_blank">
+<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/atcoder.png" width="50" height="50" alt="Atcoder"/></a>
+<a href="https://leetcode.com/Portin/" target ="_blank">
+<img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/letcode.png" width="50" height="50" alt="LeetCode"/></a>
 </div>
 
-3.📊C++ e python são as linguagens que mais utilizo.</br>
+3. 📊 Minhas principais ferramentas são C++ e Python, e utilizo essas linguagens para criar soluções eficientes e elegantes.
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vpf&theme=github_dark&show_icons=true)
 
 
-### 🖥️Tecnologias e ferramentas:
+### 🖥️Principais Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
           
 
@@ -47,8 +47,8 @@
 ## 📚Quero aprender:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-          
-          
+
+
           
           
           
