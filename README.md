@@ -44,7 +44,5 @@ Atualmente, estou dedicando meu tempo ao estudo de algoritmos de aprendizado de 
 </div>       
 
 
-![snake gif](https://github.com/Joao-vpf/Joao-vpf/blob/output/github-contribution-grid-snake.gif))
-
           
 
