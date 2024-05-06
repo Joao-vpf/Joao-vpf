@@ -42,6 +42,4 @@ Atualmente, estou dedicando meu tempo ao estudo de algoritmos de aprendizado de 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-porto-fernandes-1b938a231" target="alvo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="alvo"/></a>
 </div>       
 
-
-          
-
+<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Lixomensch/Lixomensch/output/github-contribution-grid-snake-dark.svg" width="1000" />       
