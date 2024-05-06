@@ -27,14 +27,13 @@ Atualmente, estou dedicando meu tempo ao estudo de algoritmos de aprendizado de 
 </br>
 
 ## 🖥️Principais Tecnologias:
-
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,c,python,postgres,mysql&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,postgres,mysql&theme=dark)](https://skillicons.dev)
 
 ## 📖Já utilizei:
-[![Utilizei](https://skills.thijs.gg/icons?i=js,css,html,rust,java&theme=dark)](https://skills.thijs.gg)
+[![Utilizei](https://skillicons.dev/icons?i=js,css,html,rust,java&theme=dark)](https://skillicons.dev)
 
 ## 📚Quero aprender:
-[![Aprender](https://skills.thijs.gg/icons?i=ruby,docker,cloudflare,cs&theme=dark)](https://skills.thijs.gg)
+[![Aprender](https://skillicons.dev/icons?i=ruby,docker,cloudflare,cs&theme=dark)](https://skillicons.dev)
 
 ## Como me encontrar:
 <div>
