@@ -2,7 +2,7 @@
    
 ## Prazer em te conhecer!
 
-Olá, meu nome é João Victor, um padawan no vasto universo da programação, mas um mestre na busca constante por aprendizado. 🚀✨
+Olá, meu nome é João Victor, um padawan no vasto universo da programação, mas um mestre na busca constante por aprendizado.
 
 Atualmente, estou dedicando meu tempo ao estudo de algoritmos de aprendizado de máquina, e frequentemente estou em competições e desafios de programação em busca de aprimorar minhas habilidades práticas. Além disso, estou sempre em busca de novos projetos e oportunidades para aplicar e expandir meus conhecimentos.
 
