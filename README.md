@@ -30,10 +30,10 @@ Atualmente, estou dedicando meu tempo ao estudo de algoritmos de aprendizado de 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,postgres,mysql&theme=dark)](https://skillicons.dev)
 
 ## 📖Já utilizei:
-[![Utilizei](https://skillicons.dev/icons?i=js,css,html,rust,java&theme=dark)](https://skillicons.dev)
+[![Utilizei](https://skillicons.dev/icons?i=js,css,html,rust,java,docker&theme=dark)](https://skillicons.dev)
 
 ## 📚Quero aprender:
-[![Aprender](https://skillicons.dev/icons?i=ruby,docker,cloudflare,cs&theme=dark)](https://skillicons.dev)
+[![Aprender](https://skillicons.dev/icons?i=ruby,cloudflare,cs&theme=dark)](https://skillicons.dev)
 
 ## Como me encontrar:
 <div>
