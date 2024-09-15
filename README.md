@@ -16,6 +16,7 @@ Atualmente, estou dedicando meu tempo ao estudo de algoritmos de aprendizado de 
 </br>
 2. 💪🏼 Pratico e estudo uma variedade de tópicos, desde estrutura de dados até algoritmos avançados. Minha jornada de aprendizado me levou a explorar plataformas desafiadoras como UVA Online Judge, Beecrowd, Codeforces, Atcoder e LeetCode.
 <div>
+<a href="https://codeforces.com/profile/Portin" target ="_blank">
 <img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/codeforces.png"   width="50" height="50"alt="Codeforces"/></a>
 <a href="https://atcoder.jp/users/Portin" target ="_blank">
 <img src="https://github.com/Joao-vpf/Joao-vpf/blob/main/atcoder.png" width="50" height="50" alt="Atcoder"/></a>
