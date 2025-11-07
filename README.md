@@ -1,10 +1,8 @@
-# Olá, como vai? 😜
-   
-## Prazer em te conhecer!
+# Olá! 👋
 
-Olá, meu nome é João Victor, um padawan no vasto universo da programação, mas um mestre na busca constante por aprendizado.
+## Sobre mim
 
-Atualmente, estou dedicando meu tempo ao estudo de algoritmos de aprendizado de máquina, e frequentemente estou em competições e desafios de programação em busca de aprimorar minhas habilidades práticas. Além disso, estou sempre em busca de novos projetos e oportunidades para aplicar e expandir meus conhecimentos.
+Sou João Victor, desenvolvedor em formação na Engenharia da Computação, apaixonado por resolver problemas complexos e criar soluções eficientes. Participo de competições e desafios de programação para aprimorar habilidades em algoritmos, estrutura de dados e aprendizado de máquina.
 
 <p align="center">
 <img src="PGIF.gif" alt="animated" />
@@ -28,17 +26,17 @@ Atualmente, estou dedicando meu tempo ao estudo de algoritmos de aprendizado de 
 </br>
 
 ## 🖥️Principais Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,postgres,mysql,js,css,html&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,rust,typescript,pytorch,docker,mysql,aws&theme=dark)](https://skillicons.dev)
 
 ## 📖Já utilizei:
-[![Utilizei](https://skillicons.dev/icons?i=rust,java,lua,docker&theme=dark)](https://skillicons.dev)
+[![Utilizei](https://skillicons.dev/icons?i=java,lua,js,html,css,react,tauri,bootstrap,tailwind,flask,postgres,raspberrypi,bitbucket,git,discord,bots,godot,gradle,vite,anaconda,sklearn,tensorflow,postman&theme=dark)](https://skillicons.dev)
 
 ## 📚Quero aprender:
-[![Aprender](https://skillicons.dev/icons?i=ruby,cloudflare,cs&theme=dark)](https://skillicons.dev)
+[![Aprender](https://skillicons.dev/icons?i=go,ruby,cs,bevy,gcp,azure,cloudflare&theme=dark)](https://skillicons.dev)
 
 ## Como me encontrar:
 <div>
-<a href="mailto:joaovictorpf719@gmail.com">
+<a href="mailto:joaovpfdev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="alvo"/></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-porto-fernandes-1b938a231" target="alvo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="alvo"/></a>
 </div>       
